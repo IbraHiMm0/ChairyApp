@@ -1,0 +1,47 @@
+const String imagePath ="assets/images";
+
+class ImageAssets{
+  static const String splashLogo ="$imagePath/splash_logo.png";
+  static const String cross ="$imagePath/cross.png";
+  static const String LOGO ="$imagePath/LOGO.png";
+  static const String LOGOW ="$imagePath/LOGOW.png";
+  static const String search ="$imagePath/search.png";
+  static const String searchW ="$imagePath/searchW.png";
+  static const String searchO ="$imagePath/searchO.png";
+  static const String photoSearch ="$imagePath/photo_Searchh.png";
+  static const String photoSearchW ="$imagePath/photo_SearchWW.png";
+  static const String egy ="$imagePath/egy.png";
+  static const String eng ="$imagePath/eng.png";
+  static const String ballon ="$imagePath/ballon.png";
+  static const String lightMode ="$imagePath/light.png";
+  static const String darkMode ="$imagePath/dark.png";
+  static const String backImg ="$imagePath/back-img.png";
+  static const String homeIcon ="$imagePath/home.png";
+  static const String categoryIcon ="$imagePath/categorey.png";
+  static const String cartIcon ="$imagePath/cart.png";
+  static const String element ="$imagePath/element.png";
+  static const String living ="$imagePath/living.jpg";
+  static const String bed ="$imagePath/bed.jpg";
+  static const String kitchen ="$imagePath/kitchen.jpg";
+  static const String chooseWiselyB ="$imagePath/chooseWiselyB.png";
+  static const String chooseWiselyW ="$imagePath/chooseWiselyW.png";
+  static const String cateImgW ="$imagePath/cateImgW.png";
+  static const String cateImgB ="$imagePath/cateImgB.png";
+  static const String share ="$imagePath/share.png";
+  static const String yourCartW ="$imagePath/yourCartW.png";
+  static const String yourCartBL ="$imagePath/yourCartBL.png";
+  static const String google ="$imagePath/google.png";
+  static const String visa ="$imagePath/visa.png";
+  static const String masterCard ="$imagePath/masterCard.png";
+  static const String paypal ="$imagePath/paypal.png";
+  static const String shape ="$imagePath/shape.png";
+  static const String shape2 ="$imagePath/shape2.png";
+  static const String shape3 ="$imagePath/shape3.png";
+  static const String shelf ="$imagePath/shelf.png";
+  static const String sofa ="$imagePath/sofa.png";
+  static const String dinning ="$imagePath/dinning.png";
+  static const String table ="$imagePath/table.png";
+  static const String stool ="$imagePath/stool.png";
+  static const String leather ="$imagePath/leather.png";
+  static const String nightstand ="$imagePath/nightstand.png";
+}

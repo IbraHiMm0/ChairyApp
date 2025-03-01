@@ -1,0 +1,77 @@
+class AppStrings {
+  static const noRouteFound = "No Route Found";
+  static const LOGOTitle = "LOGO";
+  static const theme = "Theme";
+  static const search = "Search";
+  static const ar = "Ar";
+  static const or = "OR";
+  static const en = "En";
+  static const menu = "Menu";
+  static const language = "Language";
+  static const lightMode = "Light Mode";
+  static const darkMode = "Dark Mode";
+  static const next = "Next";
+  static const goHome = "Go to Home";
+  static const dearCustomer = "Dear customer, please check your information for accuracy.";
+  static const title = "Chic Furnishings Online Furniture Store";
+  static const subTitle = "Discover Elegant Comfort for Every Room";
+  static const homeTitle = "Make your interior more minimalistic & modern";
+  static const homeSubTitle = "Turn your room with panto into a lot more minimalist and modern with ease and speed";
+  static const categoryTitle = "Our\nCategories";
+  static const categories = "Categories";
+  static const first = "First name *";
+  static const dance = "We're doing a little happy dance over here.";
+  static const last = "Last name *";
+  static const urShoppingCart = "Your shopping cart";
+  static const livingRoom = "Living Room";
+  static const signIn = "Sign in";
+  static const signUp = "Sign Up";
+  static const subTitleLivingRoom = "Sofas, armchairs, coffee tables, end tables, entertainment centers, bookshelves.";
+  static const moreInfo = "More Info";
+  static const city = "City *";
+  static const edit = "Edit";
+  static const added = "added to cart!";
+  static const noProduct = "No Product Selected";
+  static const alreadyInCart = "is already in the cart!";
+  static const thanksFor = "Thank you for your purchase!";
+  static const stName = "Street Name *";
+  static const buildingNum = "Building Number *";
+  static const selectPayment = "SELECT PAYMENT METHOD";
+  static const google = "Sign up with Google";
+  static const bedroom = "Bedroom";
+  static const reviewOrder = "REVIEW ORDER";
+  static const subTitleBed = "Beds, nightstands, dressers, chests of drawers, wardrobes, vanities.";
+  static const kitchen = "Kitchen";
+  static const subTitleKitchen= "Kitchen cabinets, kitchen islands, dining tables, chairs.";
+  static const furnish= "Furnish Your Dreams, Choose Wisely";
+  static const discover= "Discover quality furniture, curated styles, and exceptional service at Our Store. We make furnishing your home easy and enjoyable.";
+  static const someOfOur= "SOME OF OUR";
+  static const features= "Features We Offer To You";
+  static const allLivingRoom= "All Living Room";
+  static const armchair= "Sakarias Armchair";
+  static const balstarChair= "Balstar Chair";
+  static const addToCart= "Add to Cart";
+  static const deliveryAddress= "DELIVERY ADDRESS";
+  static const placeOrder= "Place order";
+  static const bringingYourStyle= "Bringing Your Style Home";
+  static const total= "Total";
+  static const register= "REGISTER";
+  static const data= "DATA";
+  static const paypal= "Paypal";
+  static const payment= "PAYMENT";
+  static const review= "REVIEW";
+  static const cardPayment= "Card Payment";
+  static const enjoy= "Enjoy exclusive discounts & offers";
+  static const password = "Password *";
+  static const alreadyCustomer = "I AM ALREADY A CUSTOMER";
+  static const imNew = "I AM NEW TO THIS STORE";
+  static const deliveryAddresss= "Delivery Address";
+
+  static const email= "E-mail Address *";
+  static const yourCustomer= "Your Customer Data For The Order";
+  static const termsAndConditions= "Yes, I would like to receive personalized offers, tips and tricks, and other information from Store.";
+  static const welcomeTo= "Welcome To Our Store";
+  static const chairDes= "As the name suggests it, this is the ‘jack of all trades’ of chairs; it goes in any room, with any design and serves multiple purposes that go with all upholstery options. L45 x D47 x H90 cm ";
+
+
+}
